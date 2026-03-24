@@ -1,4 +1,4 @@
-package com.example.deploylab;
+package com.example.deploylab.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
